@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hi! I'm Sergio 🧑‍💻
 
-<!--
-**sgomdie/sgomdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (Frontend Focus) · Angular · React · Capacitor · Node.js · NestJS · TypeScript · JavaScript
 
-Here are some ideas to get you started:
+Passionate about modern web and mobile development, user experience, and scalable architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Focused on impactful web and mobile projects.
+- 🌱 Continuously learning and experimenting with new frontend and backend technologies.
+- 👯 Open to collaborating on exciting and challenging projects.
+- 💬 I enjoy sharing knowledge and best practices in development.
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/sergio-g%C3%B3mez-diego-2a644b67/). 
+
+Currently working as a Software Developer at [Capgemini](https://www.capgemini.com/).
+
+---
+
+## 📊 Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgomdie&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgomdie&theme=dark" />
+</a>
+
+---
